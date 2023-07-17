@@ -4,6 +4,6 @@ author: Arvind
 main: me.arvind.FloorIsLava.Main
 description: Lava rises 5 blocks every 60 seconds
 commands:
-  creepspawn:
+  floorislava:
     aliases: [fil]
     description: /fil to start game
